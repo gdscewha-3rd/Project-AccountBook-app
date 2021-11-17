@@ -1,6 +1,6 @@
 # Project-AccountBook-app
 
-An Account Book App for Android (21.11.17 ~ )
+안드로이드 가계부 어플 (21.11.17 ~ )
 
 ---
 

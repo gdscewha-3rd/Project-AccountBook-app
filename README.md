@@ -1,6 +1,6 @@
-# Project-AccountBook-app
+# Project-Calendar-app
 
-안드로이드 가계부 어플 (21.11.17 ~ )
+안드로이드 캘린더 어플 (수정 21.01.05 ~ )
 
 ---
 
